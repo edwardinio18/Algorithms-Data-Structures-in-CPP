@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/FibonacciProblem.h
+vector
+-
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/GraphColoring.h
+vector
+-
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/Knapsack.h
+vector
+-
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/KnightTour.h
+vector
+-
+array
+-
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/NQueensProblem.h
+vector
+-
+
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/main.cpp
+iostream
+-
+NQueensProblem.h
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/NQueensProblem.h
+GraphColoring.h
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/GraphColoring.h
+KnightTour.h
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/KnightTour.h
+iomanip
+-
+FibonacciProblem.h
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/FibonacciProblem.h
+Knapsack.h
+/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/Knapsack.h
+
