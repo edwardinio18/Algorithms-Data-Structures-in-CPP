@@ -380,6 +380,6 @@ void Knapsack::printResults() {
 }
 
 int main() {
-	std::cout << "WORKS FINALLY FFS!";
+	std::cout << "WORKS FINALLY no!";
 	return 0;
 }
