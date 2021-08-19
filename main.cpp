@@ -335,7 +335,6 @@ int FibonacciAlgorithm::fibonacciMemoize(int n) {
 }
 
 #include "Knapsack.h"
-#include <algorithm>
 
 Knapsack::Knapsack(int _numOfItems, int _capacityOfKnapsack, const vector<int> &_weights, const vector<int> &_values) : numOfItems(_numOfItems), capacityOfKnapsack(_capacityOfKnapsack), weights(_weights), values(_values) {
 	knapsackTable.resize(numOfItems + 1);
