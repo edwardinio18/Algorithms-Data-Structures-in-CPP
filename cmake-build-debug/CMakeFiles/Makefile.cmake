@@ -50,5 +50,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/DependInfo.cmake"
+  "CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/DependInfo.cmake"
   )

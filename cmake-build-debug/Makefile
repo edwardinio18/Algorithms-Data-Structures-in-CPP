@@ -117,24 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Algorithms_Data_Structures_in_CPP
+# Target rules for targets named Algorithms-Data-Structures-in-CPP
 
 # Build rule for target.
-Algorithms_Data_Structures_in_CPP: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Algorithms_Data_Structures_in_CPP
-.PHONY : Algorithms_Data_Structures_in_CPP
+Algorithms-Data-Structures-in-CPP: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Algorithms-Data-Structures-in-CPP
+.PHONY : Algorithms-Data-Structures-in-CPP
 
 # fast build rule for target.
-Algorithms_Data_Structures_in_CPP/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/build.make CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/build
-.PHONY : Algorithms_Data_Structures_in_CPP/fast
+Algorithms-Data-Structures-in-CPP/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/build.make CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/build
+.PHONY : Algorithms-Data-Structures-in-CPP/fast
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/build.make CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/build.make CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -142,7 +142,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/build.make CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/build.make CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -150,7 +150,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/build.make CMakeFiles/Algorithms_Data_Structures_in_CPP.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/build.make CMakeFiles/Algorithms-Data-Structures-in-CPP.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -161,7 +161,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Algorithms_Data_Structures_in_CPP"
+	@echo "... Algorithms-Data-Structures-in-CPP"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

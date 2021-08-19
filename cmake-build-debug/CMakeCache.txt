@@ -15,6 +15,12 @@
 ########################
 
 //Value Computed by CMake
+Algorithms-Data-Structures-in-CPP_BINARY_DIR:STATIC=/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/cmake-build-debug
+
+//Value Computed by CMake
+Algorithms-Data-Structures-in-CPP_SOURCE_DIR:STATIC=/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP
+
+//Value Computed by CMake
 Algorithms_Data_Structures_in_CPP_BINARY_DIR:STATIC=/Users/edwardiakab/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/cmake-build-debug
 
 //Value Computed by CMake
@@ -163,7 +169,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Algorithms_Data_Structures_in_CPP
+CMAKE_PROJECT_NAME:STATIC=Algorithms-Data-Structures-in-CPP
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib

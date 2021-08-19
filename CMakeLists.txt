@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.20)
-project(Algorithms_Data_Structures_in_CPP)
+project(Algorithms-Data-Structures-in-CPP)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Algorithms_Data_Structures_in_CPP
+add_executable(Algorithms-Data-Structures-in-CPP
         FibonacciProblem.h
         GraphColoring.h
         Knapsack.h
