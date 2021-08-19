@@ -1,3 +1,0 @@
-C:/Users/edwar/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/edwar/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/cmake-build-debug/CMakeFiles/Algorithms-Data-Structures-in-CPP.dir
-C:/Users/edwar/Documents/CLionProjects/Algorithms-Data-Structures-in-CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
