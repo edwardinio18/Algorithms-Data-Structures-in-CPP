@@ -378,8 +378,3 @@ void Knapsack::printResults() {
 		}
 	}
 }
-
-int main() {
-    std::cout << "ISSA WORKING i think?";
-    return 0;
-}
