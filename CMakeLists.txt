@@ -11,4 +11,4 @@ add_executable(Algorithms-Data-Structures-in-CPP
         LinkedList.h
         List.h
         main.cpp
-        NQueensProblem.h StackArray.h StackLinkedList.h QueueLinkedList.h)
+        NQueensProblem.h StackArray.h StackLinkedList.h QueueLinkedList.h BinarySearchTree.h Tree.h)
